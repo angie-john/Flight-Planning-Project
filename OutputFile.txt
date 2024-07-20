@@ -1,0 +1,36 @@
+Flight 1: Philly, Houston(Time)
+Path 1: Philly->Boston->Chicago->Austin->Houston. Time: 701 Cost: 469.00
+Path 2: Philly->Boston->Chicago->Austin->Dallas->Houston. Time: 760 Cost: 573.00
+Path 3: Philly->Boston->Chicago->Houston. Time: 790 Cost: 390.00
+
+
+Flight 2: Philly, Dallas(Cost)
+Path 1: Philly->Boston->Chicago->Austin->Dallas. Time: 709 Cost: 472.00
+Path 2: Philly->Boston->Chicago->Houston->Dallas. Time: 841 Cost: 491.00
+Path 3: Philly->Boston->Chicago->Austin->Houston->Dallas. Time: 752 Cost: 570.00
+
+
+Flight 3: Philly, Austin(Cost)
+Path 1: Philly->Boston->Chicago->Austin. Time: 662 Cost: 374.00
+Path 2: Philly->Boston->Chicago->Houston->Austin. Time: 829 Cost: 485.00
+Path 3: Philly->Boston->Chicago->Houston->Dallas->Austin. Time: 888 Cost: 589.00
+
+
+Flight 4: Philly, Boston(Cost)
+Path 1: Philly->Boston. Time: 230 Cost: 110.00
+
+
+Flight 5: Philly, Chicago(Cost)
+Path 1: Philly->Boston->Chicago. Time: 470 Cost: 230.00
+
+
+Flight 6: Philly, NYC(Cost)
+Path 1: Philly->Boston->Chicago->Austin->NYC. Time: 892 Cost: 517.00
+Path 2: Philly->Boston->Chicago->Austin->Dallas->NYC. Time: 959 Cost: 622.00
+Path 3: Philly->Boston->Chicago->Houston->Austin->NYC. Time: 1059 Cost: 628.00
+
+
+Flight 7: Philly, LA(Cost)
+Path 1: Philly->Boston->Chicago->Austin->NYC->LA. Time: 1392 Cost: 1117.00
+Path 2: Philly->Boston->Chicago->Austin->Dallas->NYC->LA. Time: 1459 Cost: 1222.00
+Path 3: Philly->Boston->Chicago->Houston->Austin->NYC->LA. Time: 1559 Cost: 1228.00

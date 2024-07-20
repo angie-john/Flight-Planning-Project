@@ -1,0 +1,8 @@
+7
+Philly|Houston|T
+Philly|Dallas|C
+Philly|Austin|C
+Philly|Boston|C
+Philly|Chicago|C
+Philly|NYC|C
+Philly|LA|C
